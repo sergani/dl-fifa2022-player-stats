@@ -1,0 +1,1 @@
+This is a deep learning model for the FIFA 2022 player stats dataset available [here](https://github.com/sergani/training-datasets/blob/main/fifa2022%20player%20stats.csv).
